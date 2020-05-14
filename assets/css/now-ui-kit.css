@@ -4531,10 +4531,10 @@ Created using IcoMoon - icomoon.io
 
 .navbar p {
   display: inline-block;
-  margin: 0;
+  margin: 0 auto;
   line-height: 21px;
   font-weight: inherit;
-  font-size: inherit;
+  font-size: 16px;
 }
 
 .navbar .navbar-nav.navbar-logo {
@@ -4559,9 +4559,8 @@ Created using IcoMoon - icomoon.io
 }
 
 .navbar .navbar-nav .nav-link:not(.btn) {
-  text-transform: uppercase;
-  font-size: 0.7142em;
-  padding: 0.5rem 0.7rem;
+  font-size: 16px;
+  padding: 0.5rem 0.5rem;
   line-height: 1.625rem;
 }
 
@@ -4613,7 +4612,7 @@ Created using IcoMoon - icomoon.io
 
 .navbar .navbar-brand {
   text-transform: uppercase;
-  font-size: 0.8571em;
+  font-size: 32px;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   line-height: 1.625rem;
